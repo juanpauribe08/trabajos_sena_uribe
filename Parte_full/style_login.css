@@ -1,0 +1,51 @@
+body {
+    font-family: black italic;
+    background-color: rgba(219, 213, 213, 0.815);
+    
+}
+h1 {
+    text-align: center;
+    border: 3px solid black;
+    width: 300px;
+    background-color: white;
+    margin: 50px auto;
+    
+    
+}
+.cuadro{
+    border: 3px solid black;
+    width: 500px;
+    background-color: white  ;
+    margin: 50px auto;
+}
+
+form {
+    width: 300px;
+    margin: 50px auto;
+    border: none;
+    padding: 20px;
+    background-color: white;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: rgba(216, 216, 216, 0.815);
+}
+
+button {
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(73, 226, 78);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

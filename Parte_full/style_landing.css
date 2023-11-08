@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer {
+    background-color: green;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+img {
+    width: 10%;
+    height: 10%;
+    margin-left: 90%;    
+}
+
+button {
+    color: #fff;
+    font-size: 16px;
+    background-color: green;
+    
+}
+
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
